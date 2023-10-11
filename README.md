@@ -1,16 +1,23 @@
-### Hi there 👋
+### 你好，👋
 
-<!--
-**xingkongj/xingkongj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是 [xingkongj](你的GitHub链接)，一名热爱平面设计的设计师！
 
-Here are some ideas to get you started:
+- 🔭 我目前正在从事平面设计工作，致力于创造视觉上令人愉悦的作品。
+- 🌱 我不断学习和提高我的设计技能，尤其是在以下领域：品牌设计、UI/UX设计、网页设计、IP形象设计。
+- 👯 我很愿意与其他设计师和创意人合作，一同探索新的设计领域和项目。
+- 💬 如果你有任何关于平面设计或设计软件的问题，欢迎向我提问。
+- 🖥️ 我精通多种设计软件，包括：
+  - Adobe Photoshop
+  - Adobe Illustrator
+  - Adobe InDesign
+  - Figma
+  - Sketch
+  - Canva
+  - 等等
+  
+🐍 此外，我对Python编程也有着浓厚的兴趣，喜欢探索数据分析、自动化和Web开发等领域的Python应用。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 你可以通过 [xingkongjihua@outlook.com] 联系我。
+
+期待与设计界的朋友们互动和合作，共同创造精彩的设计作品！
+
